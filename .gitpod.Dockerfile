@@ -1,5 +1,5 @@
 FROM gitpod/workspace-full
-                    
+
 USER gitpod
 
 # Install custom tools, runtime, etc. using apt-get
@@ -10,3 +10,5 @@ USER gitpod
 # More information: https://www.gitpod.io/docs/42_config_docker/
 
 RUN sudo apt-get install xsel
+
+ENV PATH $PATH:/usr/bin/xsel
