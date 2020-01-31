@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.nugzho",
+      "sha256_cert_fingerprints": ["02:1C:A7:00:2B:78:34:1C:FB:F1:81:B8:B1:0D:C0:CC:41:CF:27:19:6E:7F:EA:B8:1D:3F:27:3E:10:54:E7:28"]
+    }
+  }
+]
