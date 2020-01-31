@@ -1,2 +1,2 @@
 layout: none
-permalink: .well-known/asseslinks.json
+permalink: .well-known/assetlinks.json
