@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "serve": "serve"
+    "serve": "serve -l 3000"
   },
   "dependencies": {
     "serve": "^11.3.0"
